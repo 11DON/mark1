@@ -54,5 +54,5 @@ bin/
 hs_err_pid*
 replay_pid*
 
-don.pack
+src/don/paack/Main
 
